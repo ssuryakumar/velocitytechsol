@@ -74,12 +74,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				
 			</ul>
 		</div>
-		<div class="h_search">
-    		<form>
-    			<input type="text" value="" placeholder="search something...">
-    			<input type="submit" value="">
-    		</form>
-		</div>
+		
         <div class="menu">
         	<ul>
 				<li class="active"><a href="index.html">Home</a></li>
@@ -156,93 +151,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
  	</div>
 </div>
 </div>
-<!-- start main -->
-<div class="wrap">
-	<div class="main">
-		<div class="main_text">
-			<h2>Lorem Ipsum is <span>simply dummy </span> text of the printing.</h2>
-			<p class="para">"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-		</div>
-		<!-- start grids_of_3 -->
-		<div class="grids_of_3">
-			<div class="grid1_of_3">
-				<img src="images/icon1.png" alt=""/>
-				<h3><a href="#">Lorem Ipsum is <span> simply </span> </a></h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-			</div>
-			<div class="grid1_of_3">
-				<img src="images/icon2.png" alt=""/>
-				<h3><a href="#">Lorem Ipsum is <span> simply </span> </a></h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-			</div>
-			<div class="grid1_of_3">
-				<img src="images/icon3.png" alt=""/>
-				<h3><a href="#">Lorem Ipsum is <span> simply </span> </a></h3>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-			</div>
-			<div class="clear"></div>
-		</div>
-		<!-- end grids_of_3 -->
-	</div>
-</div>
-<!-- start main_bg -->
-<div class="main_bg">
-<div class="wrap">
-	<div class="main content_top">
-		<!-- start span_of_3 -->
-		<div class="span_of_3">
-			<div class="span1_of_3">
-				<a href="details.html"><img src="images/pic1.jpg" alt=""/></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="details.html"><img src="images/pic2.jpg" alt=""/></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="details.html"><img src="images/pic3.jpg" alt=""/></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-			</div>
-			<div class="clear"></div>
-		</div>
-		<!--  -->
-		<div class="span_of_3">
-			<div class="span1_of_3">
-				<a href="details.html"><img src="images/pic4.jpg" alt=""/></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="details.html"><img src="images/pic5.jpg" alt=""/></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-			</div>
-			<div class="span1_of_3">
-				<a href="details.html"><img src="images/pic6.jpg" alt=""/></a>
-				<div class="span1_of_3_text">
-					<h3><a href="details.html">Lorem Ipsum is simply  text</a></h3>
-					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's.</p>
-				</div>
-			</div>
-			<div class="clear"></div>
-		</div>
-		<!-- end grids_of_3 -->
-	</div>
-</div>
-</div>
 <div class="wrap">
 		<ul id="flexiselDemo3">
 			<li><img src="images/client1.jpg" /></li>
@@ -302,45 +210,6 @@ $(window).load(function() {
 <script type="text/javascript" src="js/jquery.flexisel.js"></script>
 </div>
 <!-- start footer -->
-<div class="footer_bg">
-<div class="wrap">
-	<div class="footer">
-		<!-- start span_of_4 -->
-		<div class="span_of_4">
-			<div class="span1_of_4">
-				<h4>popular post</h4>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-				<ul class="f_nav1">
-					<li class="timer"><a href="#">25-september 2013 </a></li>
-				</ul>
-				<p class="top">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-				<ul class="f_nav1">
-					<li class="timer"><a href="#">25-september 2013 </a></li>
-				</ul>
-			</div>
-			<div class="span1_of_4">
-				<h4>tags</h4>
-				<p>It is a long established fact that a reader will be distracted by the<big>readable</big> content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal <big>blog</big> Many desktop publishing packages and web page editors now use Lorem.</p>
-			</div>
-			<div class="span1_of_4">
-				<h4>a little about us</h4>
-				<p class="btm">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-				<p>It is a long established fact that a reader will be of a page when looking at its layout.</p>
-
-			</div>
-			<div class="span1_of_4">
-				<h4>get in touch</h4>
-				<p class="btm">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since</p>
-				<p class="btm1 pin">Texas, US</p>
-				<p class="btm1 mail"><a href="mailto:info@mycompany.com">info(at)mycompany.com </a></p>
-				<p class="call">01234 444 777</p>
-			</div>
-			<div class="clear"></div>
-		</div>
-	</div>
-</div>
-</div>
-<!-- start footer -->
 <div class="footer_bg1">
 <div class="wrap">
 	<div class="footer1">
@@ -371,7 +240,7 @@ $(window).load(function() {
 			</ul>
 		</div>
 		<div class="copy">
-			<p class="link"><span>&copy; 2014 Webworld-v2. All rights reserved | Template by&nbsp;<a href="http://w3layouts.com/"> W3Layouts</a></span></p>
+			<p class="link"><span>&copy; 2014 Velocity Technology Solutions</span></p>
 		</div>
 		<div class="clear"></div>
 	</div>
