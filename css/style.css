@@ -38,7 +38,7 @@ body {
 	width:80%;
 }
 .header_bg{
-	background: white;
+	background: url('../images/bg/header-bg.jpg');
 }
 .header{
 	padding:2% 4%;
@@ -89,7 +89,7 @@ body {
 }
 /* start header_btm */
 .header_btm{
-	background: #eeeeee;
+	background: #fff;
 	border-bottom: 5px solid #e6e6e6;
 }
 .header_sub{
