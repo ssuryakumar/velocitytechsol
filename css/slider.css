@@ -1,6 +1,6 @@
 .da-slider{
 	width: 100%;
-	height:500px;
+	height:400px;
 	position: relative;
 	overflow: hidden;
 	background:url(../images/slider-bg.png);
@@ -50,7 +50,7 @@
 	font-family: 'Open Sans', sans-serif;
 	text-transform: uppercase;
 	color: blue;
-	text-shadow: 0px 0px 20px white;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);
 	
 	width: 77%;
 	top: 120px;
@@ -63,8 +63,8 @@
 .da-slide p{
 	top: 190px;
 	color: #000000;
-	text-shadow: 0px 0px 20px white;
-	font-size: 1em;
+	text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);
+	font-size: 1.3em;
 	height: 80px;
 	overflow: hidden;
 	font-weight: normal;
