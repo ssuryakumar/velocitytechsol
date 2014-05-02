@@ -61,11 +61,10 @@
                      <input type="text" value="Search" onFocus="this.value = '';" onBlur="if (this.value == '') {this.value = 'Search';}" class="text">
                   </form>
                </div>
-<!-- mobile menu -->
                <div class="sub-head">
                   <ul>
                      <li><a href="#" id="menu">Menu  <span></span></a></li>
-                    
+                     <li><a href="#" id="search">Search <span></span></a></li>
                   </ul>
                   <div class="clear"></div>
                </div>
@@ -130,7 +129,7 @@
                             <li><span class="glyphicon glyphicon-phone" id="blue_highlight"> </span> Mobile Application Developers (iOS, Android)</li>
                             <li><span class="glyphicon glyphicon-hdd" id="blue_highlight"> </span> Big Data resources (Hadoop)</li>
                             <li><span class="glyphicon glyphicon-retweet" id="blue_highlight"> </span> Web and Client-Server Application Developers</li>
-			    <li><span class="glyphicon glyphicon-wrench" id="blue_highlight"> </span> Helpdesk/Desktop Support</li>
+ 			    <li><span class="glyphicon glyphicon-wrench" id="blue_highlight"> </span> Helpdesk/Desktop Support</li>
                         </ul>
                     </div>
                      <div class="span1_of_3">
@@ -141,7 +140,7 @@
                             <li><span class="glyphicon glyphicon-usd" id="blue_highlight"> </span> Business Analysts</li>
                             <li><span class="glyphicon glyphicon-stats" id="blue_highlight"> </span> Data Analysts</li>
                             <li><span class="glyphicon glyphicon-warning-sign" id="blue_highlight"> </span> Systems Administrators</li>
-                           
+                          
                         </ul>
                     </div>
                     <div class="span1_of_3">
@@ -153,7 +152,7 @@
                             <li><span class="glyphicon glyphicon-zoom-in" id="blue_highlight"> </span> Quality Assurance  (QA) Analysts and Testers</li>
                             <li><span class="glyphicon glyphicon-ok" id="blue_highlight"> </span> ERP Professionals (SAP primarily)</li>
                             <li><span class="glyphicon glyphicon-glass" id="blue_highlight"> </span> Business Intelligence Consultants</li>
- 			    <li><span class="glyphicon glyphicon-film" id="blue_highlight"> </span> Virtualization Consultants</li>	
+ 			    <li><span class="glyphicon glyphicon-wrench" id="blue_highlight"> </span> Virtualization Consultants</li>	
                         </ul>
                     </div>
                 </div>
